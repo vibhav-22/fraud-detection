@@ -1,0 +1,9 @@
+data/raw/
+data/processed/
+__pycache__/
+*.pyc
+.env
+mlruns/
+*.zip
+venv/
+!dashboard/sample_transactions.csv
